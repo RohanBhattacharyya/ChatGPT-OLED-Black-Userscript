@@ -7,6 +7,7 @@
 // @match        https://chat.openai.com/*
 // @run-at       document-start
 // @grant        none
+// @author       Rohan
 // ==/UserScript==
 
 (function () {
